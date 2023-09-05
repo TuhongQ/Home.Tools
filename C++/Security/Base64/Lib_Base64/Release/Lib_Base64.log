@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Lib_Base64.cpp
+F:\Home.Tools\C++\Security\Base64\Lib_Base64\Lib_Base64.cpp(83,52): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+F:\Home.Tools\C++\Security\Base64\Lib_Base64\Lib_Base64.cpp(100,48): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  Lib_Base64.vcxproj -> F:\Home.Tools\Release\Lib_Base64.lib

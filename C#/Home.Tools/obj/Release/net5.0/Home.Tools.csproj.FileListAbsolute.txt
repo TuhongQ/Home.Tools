@@ -1,0 +1,12 @@
+F:\Home.Tools\C#\Home.Tools\obj\Release\net5.0\Home.Tools.csproj.AssemblyReference.cache
+F:\Home.Tools\C#\Home.Tools\obj\Release\net5.0\Home.Tools.GeneratedMSBuildEditorConfig.editorconfig
+F:\Home.Tools\C#\Home.Tools\obj\Release\net5.0\Home.Tools.AssemblyInfoInputs.cache
+F:\Home.Tools\C#\Home.Tools\obj\Release\net5.0\Home.Tools.AssemblyInfo.cs
+F:\Home.Tools\C#\Home.Tools\obj\Release\net5.0\Home.Tools.csproj.CoreCompileInputs.cache
+F:\Home.Tools\C#\Home.Tools\bin\Release\net5.0\Home.Tools.deps.json
+F:\Home.Tools\C#\Home.Tools\bin\Release\net5.0\Home.Tools.dll
+F:\Home.Tools\C#\Home.Tools\bin\Release\net5.0\Home.Tools.pdb
+F:\Home.Tools\C#\Home.Tools\obj\Release\net5.0\Home.Tools.dll
+F:\Home.Tools\C#\Home.Tools\obj\Release\net5.0\refint\Home.Tools.dll
+F:\Home.Tools\C#\Home.Tools\obj\Release\net5.0\Home.Tools.pdb
+F:\Home.Tools\C#\Home.Tools\obj\Release\net5.0\ref\Home.Tools.dll
